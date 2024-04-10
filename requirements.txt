@@ -1,0 +1,6 @@
+dicomweb_client==0.59.1
+highdicom==0.22.0
+numpy==1.24.4
+pandas==1.4.3
+scipy==1.9.3
+shapely==2.0.3
